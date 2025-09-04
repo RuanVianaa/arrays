@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Specialized;
 
 namespace MinhaBiblioteca
 {
@@ -81,5 +82,34 @@ namespace MinhaBiblioteca
             }
             return maior;
         }
+        public static string complementarDNA(string dna)
+        {
+            int n = dna.Length;
+            dna = dna.ToUpper();
+            char[] complemento = new char[n];
+            for (int i = 0; i < n; i++)
+            {
+                switch (dna[i])
+                {
+                    case 'A':
+                        complemento[i] = 'T';
+                        break;
+                    case 'T':
+                        complemento[i] = 'A';
+                        break;
+                    case 'C':
+                        complemento[i] = 'G';
+                        break;
+                    case 'G':
+                        complemento[i] = 'C';
+                        break;
+                    default:
+                        complemento[i] = 'N';
+                        break;
+                }
+            }
+            return new string(complemento);
+        }
+
     }
 }
