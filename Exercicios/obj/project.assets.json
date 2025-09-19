@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruanp\\arrays\\arrays\\Exercicios\\Exercicios.csproj",
+      "projectUniqueName": "C:\\Users\\ruanp\\arrays complete\\arrays\\Exercicios\\Exercicios.csproj",
       "projectName": "Exercicios",
-      "projectPath": "C:\\Users\\ruanp\\arrays\\arrays\\Exercicios\\Exercicios.csproj",
+      "projectPath": "C:\\Users\\ruanp\\arrays complete\\arrays\\Exercicios\\Exercicios.csproj",
       "packagesPath": "C:\\Users\\ruanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruanp\\arrays\\arrays\\Exercicios\\obj\\",
+      "outputPath": "C:\\Users\\ruanp\\arrays complete\\arrays\\Exercicios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ruanp\\AppData\\Roaming\\NuGet\\NuGet.Config"

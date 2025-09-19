@@ -111,5 +111,27 @@ namespace MinhaBiblioteca
             return new string(complemento);
         }
 
+        public static void sortearVetor(int[] vetor)
+        {
+            Random rand = new Random();
+            for (int i = 0; i < vetor.Length; i++)
+            {
+                vetor[i] = rand.Next(1, 100);
+            }
+        }
+
+        public static int procurarNumero(int[] vetor, int num)
+        {
+            for (int i = 0; i < vetor.Length; i++)
+            {
+                if (vetor[i] == num)
+                {
+                    return i;
+                }
+            }
+            return -1;
+        }
+
+        
     }
 }

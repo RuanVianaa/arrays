@@ -35,3 +35,18 @@ C:\Users\ruanp\arrays\arrays\Exercicios\obj\Debug\net9.0\Exercicios.sourcelink.j
 C:\Users\ruanp\arrays\arrays\Exercicios\obj\Debug\net9.0\Exercicios.dll
 C:\Users\ruanp\arrays\arrays\Exercicios\obj\Debug\net9.0\refint\Exercicios.dll
 C:\Users\ruanp\arrays\arrays\Exercicios\obj\Debug\net9.0\Exercicios.pdb
+C:\Users\ruanp\arrays complete\arrays\Exercicios\obj\Debug\net9.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruanp\arrays complete\arrays\Exercicios\obj\Debug\net9.0\Exercicios.AssemblyInfoInputs.cache
+C:\Users\ruanp\arrays complete\arrays\Exercicios\obj\Debug\net9.0\Exercicios.AssemblyInfo.cs
+C:\Users\ruanp\arrays complete\arrays\Exercicios\obj\Debug\net9.0\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\ruanp\arrays complete\arrays\Exercicios\obj\Debug\net9.0\Exercicios.sourcelink.json
+C:\Users\ruanp\arrays complete\arrays\Exercicios\obj\Debug\net9.0\Exercicios.dll
+C:\Users\ruanp\arrays complete\arrays\Exercicios\obj\Debug\net9.0\refint\Exercicios.dll
+C:\Users\ruanp\arrays complete\arrays\Exercicios\obj\Debug\net9.0\Exercicios.pdb
+C:\Users\ruanp\arrays complete\arrays\Exercicios\bin\Debug\net9.0\Exercicios.exe
+C:\Users\ruanp\arrays complete\arrays\Exercicios\bin\Debug\net9.0\Exercicios.deps.json
+C:\Users\ruanp\arrays complete\arrays\Exercicios\bin\Debug\net9.0\Exercicios.runtimeconfig.json
+C:\Users\ruanp\arrays complete\arrays\Exercicios\bin\Debug\net9.0\Exercicios.dll
+C:\Users\ruanp\arrays complete\arrays\Exercicios\bin\Debug\net9.0\Exercicios.pdb
+C:\Users\ruanp\arrays complete\arrays\Exercicios\obj\Debug\net9.0\Exercicios.genruntimeconfig.cache
+C:\Users\ruanp\arrays complete\arrays\Exercicios\obj\Debug\net9.0\ref\Exercicios.dll
